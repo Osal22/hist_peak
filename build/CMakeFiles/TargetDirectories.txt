@@ -1,0 +1,3 @@
+/home/osal/_dev/cpp_practice/slope/build/CMakeFiles/slope.dir
+/home/osal/_dev/cpp_practice/slope/build/CMakeFiles/edit_cache.dir
+/home/osal/_dev/cpp_practice/slope/build/CMakeFiles/rebuild_cache.dir
